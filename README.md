@@ -9,7 +9,7 @@
 
 ## Download
 
-- [Windows x64 zip file ](./build/Windows&#32;x64.zip)
+- [Windows x64 zip file](./build/Windows&#32;x64.zip?raw=true)
 
 ## Info
 
